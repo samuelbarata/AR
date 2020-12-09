@@ -5,4 +5,9 @@
 *_log.txt
 *_stdout.txt
 *.swp
+ilt_*
+*_rom*
+*_slot*
+*_ssa
+*_rom
 
