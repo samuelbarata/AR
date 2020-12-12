@@ -4,6 +4,6 @@
 # dhcp
 # or the line below to manually setup an IP address and subnet mask
 
-ip 193.20.1.1 255.255.255.128
+ip 193.20.1.1 193.20.1.102 25
 
 set pcname worf.ar.pt
