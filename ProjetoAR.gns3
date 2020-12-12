@@ -1593,12 +1593,12 @@
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                    "text": "Sw12",
+                    "text": "Sw11",
                     "x": 18,
                     "y": -25
                 },
                 "locked": false,
-                "name": "Sw12",
+                "name": "Sw11",
                 "node_id": "0bc9c6af-4cbb-4a83-b6dc-1bc21bd45acf",
                 "node_type": "dynamips",
                 "port_name_format": "Ethernet{0}",
@@ -1650,12 +1650,12 @@
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                    "text": "Sw11",
-                    "x": 18,
-                    "y": 27
+                    "text": "Sw12",
+                    "x": 16,
+                    "y": 30
                 },
                 "locked": false,
-                "name": "Sw11",
+                "name": "Sw12",
                 "node_id": "0a030f0a-8233-43dd-9929-d2302989da78",
                 "node_type": "dynamips",
                 "port_name_format": "Ethernet{0}",
