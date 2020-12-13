@@ -1,3 +1,5 @@
 set pcname kirk.ar.pt
 ip 193.30.2.100 193.30.2.2 25
+ip 2001:db8:1:3002:2050:79ff:fe66:6807/64
 ip dns 83.1.1.1
+ip auto
